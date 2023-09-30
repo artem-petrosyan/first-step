@@ -10,5 +10,6 @@ public class Main {
         var c = 2;
 
         int num = 2;
+        double val = 3.0;
     }
 }
